@@ -19,6 +19,10 @@ public class Rectangle {
     } 
     
     // write code to calculate perimeter here
+    public int getPerimeter(){
+        return 2*(length+breadth)
+
+    }
     // getPerimeter()
     
 }
